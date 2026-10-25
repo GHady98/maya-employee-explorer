@@ -75,3 +75,4 @@ npm run test:browser
 - [Recorded browser timing and requests](evidence/browser-results.json)
 
 Final source formatting was followed by another successful lint and production build. A targeted credential-pattern scan returned no matches, and git diff whitespace checks passed.
+

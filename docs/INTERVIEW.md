@@ -70,3 +70,4 @@ Verification: checked the installed Next.js documentation and official reference
 ## Student follow-up
 
 Pending: review these notes, explain one decision in your own words, and predict a small change before trying it. Do not retroactively call a later answer an initial prediction. Recording a 2–4 minute walkthrough is optional.
+

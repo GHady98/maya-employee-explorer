@@ -2,7 +2,7 @@
 
 TECHTALKS · Assignment 03
 
-Author identifier supplied by user: **GHady98**. Full name still needs to be supplied for submission.
+Author: **Ghady Nazha** · GitHub: **GHady98**.
 
 A fresh, standalone Next.js App Router project with one dashboard at `/`. It loads a sample employee profile on the server, streams an independent three-title post preview, and lets the visitor load complete posts in the browser after a click.
 
@@ -83,3 +83,4 @@ Dependencies, build output, and environment files are ignored. The assignment is
 Local implementation and required main scenarios have been verified. Browser-induced server-profile and server-preview failures remain unverified; see TESTING.md. API/network availability and streaming behaviour can vary. No deployment, public GitHub repository, remote push, or submission email has been completed.
 
 The initial predictions and final explanations are clearly labelled agent-authored. The student must review them and add their own understanding and direct observation without backdating initial predictions. The full name and public repository/branch URLs still need to be supplied. Recording a 2–4 minute walkthrough is optional and has not been created.
+

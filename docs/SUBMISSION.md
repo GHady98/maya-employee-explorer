@@ -1,13 +1,13 @@
 # Submission draft
 
 To: khaled@techtalkslb.com
-Subject: Assignment 3 – Maya’s Interview – [Your Full Name]
+Subject: Assignment 3 – Maya’s Interview – Ghady Nazha
 
 Hello Khaled,
 
 I have completed the local implementation of Assignment 3: Yehia Meets Maya.
 
-Full name: [Pending; account identifier supplied: GHady98]
+Full name: Ghady Nazha
 Public repository: [Pending publication]
 Branch: assignment-3-maya-interview
 Branch URL: [Pending publication]
@@ -25,3 +25,4 @@ Thank you!
 5. Send the reviewed email, or explicitly authorize the agent to send it with the completed details.
 
 No email has been sent. No deadline was specified in the assignment. A live deployment and walkthrough recording are optional.
+
