@@ -1,1 +1,1 @@
-export type Scenario = 'success' | 'slow' | 'http-error' | 'empty';
+export type Scenario = "success" | "slow" | "http-error" | "empty";

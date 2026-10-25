@@ -1,0 +1,14 @@
+{
+  "previewFallbackVisibleMs": 495,
+  "previewResolvedMs": 2497,
+  "slowResolvedMs": 2570,
+  "networkFailure": "PASS (browser test interception, not a live outage)",
+  "browserApiRequests": [
+    "https://jsonplaceholder.typicode.com/posts?userId=1",
+    "https://jsonplaceholder.typicode.com/posts?userId=1",
+    "https://jsonplaceholder.typicode.com/posts?userId=1",
+    "https://jsonplaceholder.typicode.com/posts?userId=1"
+  ],
+  "pageErrors": [],
+  "status": "PASS: shell streaming, live profile, no client fetch before click, slow single request, success, HTTP 503, recovery, empty, network failure, keyboard and 360px layout"
+}
