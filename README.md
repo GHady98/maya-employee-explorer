@@ -80,7 +80,11 @@ Dependencies, build output, and environment files are ignored. The assignment is
 
 ## Limitations and submission status
 
-Local implementation and required main scenarios have been verified. Browser-induced server-profile and server-preview failures remain unverified; see TESTING.md. API/network availability and streaming behaviour can vary. No deployment, public GitHub repository, remote push, or submission email has been completed.
+Local implementation and required main scenarios have been verified. Browser-induced server-profile and server-preview failures remain unverified; see TESTING.md. API/network availability and streaming behaviour can vary. No deployment is included. The public repository and remote push are now complete; email status is recorded in docs/SUBMISSION.md.
 
-The initial predictions and final explanations are clearly labelled agent-authored. The student must review them and add their own understanding and direct observation without backdating initial predictions. The full name and public repository/branch URLs still need to be supplied. Recording a 2–4 minute walkthrough is optional and has not been created.
+The initial predictions and final explanations are clearly labelled agent-authored. The student must review them and add their own understanding and direct observation without backdating initial predictions. The full name is Ghady Nazha; public repository and branch links appear below. Recording a 2–4 minute walkthrough is optional and has not been created.
 
+
+## Publication update — 25 October 2026
+
+Author: **Ghady Nazha**. Public repository: [GHady98/maya-employee-explorer](https://github.com/GHady98/maya-employee-explorer). Assignment branch: [assignment-3-maya-interview](https://github.com/GHady98/maya-employee-explorer/tree/assignment-3-maya-interview). Existing milestone history is preserved. Publication is complete; see docs/SUBMISSION.md for the email record and remaining coursework limitations.

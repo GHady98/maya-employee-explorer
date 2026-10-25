@@ -1,0 +1,14 @@
+Hello Khaled,
+
+I am submitting the current implementation of Assignment 3: Yehia Meets Maya.
+
+Full name: Ghady Nazha
+Public repository: https://github.com/GHady98/maya-employee-explorer
+Branch: assignment-3-maya-interview
+Branch URL: https://github.com/GHady98/maya-employee-explorer/tree/assignment-3-maya-interview
+
+Known limitations:
+Server/client fetching, independent Suspense loading, success/slow/error/empty/recovery checks, and evidence are included. Initial predictions and interview notes are explicitly labelled agent-authored; my own explanation and personal verification remain to be added. An extra server-profile failure browser check is marked unverified. No optional recording or live deployment is included.
+
+Thank you,
+Ghady Nazha
