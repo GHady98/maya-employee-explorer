@@ -88,3 +88,5 @@ The initial predictions and final explanations are clearly labelled agent-author
 ## Publication update — 25 October 2026
 
 Author: **Ghady Nazha**. Public repository: [GHady98/maya-employee-explorer](https://github.com/GHady98/maya-employee-explorer). Assignment branch: [assignment-3-maya-interview](https://github.com/GHady98/maya-employee-explorer/tree/assignment-3-maya-interview). Existing milestone history is preserved. Publication is complete; see docs/SUBMISSION.md for the email record and remaining coursework limitations.
+
+Submission email sent on 25 October 2026 to khaled@techtalkslb.com and confirmed in Gmail Sent. The message discloses the remaining coursework limitations; publication and sending do not establish instructor acceptance.
