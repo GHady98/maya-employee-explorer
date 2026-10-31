@@ -13,10 +13,6 @@ Authorship: The following are agent-authored predictions, not the student's own 
 
 Pending user response. Do not backdate an answer or replace the original predictions after testing.
 
-## After testing
-
-Pending implementation and actual verification.
-
 ## After testing — 25 October 2026
 
 The initial predictions above are preserved. All four agent predictions matched the observed implementation behaviour. No student prediction was received before implementation. These explanations are agent-prepared study notes; review and rewrite them in your own words before submission.
